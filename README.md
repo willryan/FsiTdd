@@ -4,6 +4,8 @@
 
 Open TddSample*.fsx and send the entire contents to FSI.  If you are using Ionide, you will see output in HTML format.  As you update code or tests, you need only send the changes to FSI.  This allows for a lightning fast feedback loop as you move from failing test to passing test.
 
+![image](tdd_ionide.gif =593x320)
+
 This repo may someday be converted into a Nuget package, but for the moment I think it is likely enough that people will want to make changes that I recommend copying or forking the repo.
 
 ## Test discovery modes
